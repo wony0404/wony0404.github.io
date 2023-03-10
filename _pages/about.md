@@ -25,4 +25,4 @@ Currently my research topics are on statistical analysis for cryptographic primi
 
 - [Dec, 2020] My SNU team was chosen as one of the first winners of Track 1 in iDASH 2020 competition. [(link)](http://www.humangenomeprivacy.org/2020/)
 
-- [Oct, 2019] My SNU team was chosen as one of the second winners of Track 2 in iDASH 2020 competition. [(link)](http://www.humangenomeprivacy.org/2019/)
+- [Oct, 2019] My SNU team was chosen as the second winner of Track 2 in iDASH 2020 competition. [(link)](http://www.humangenomeprivacy.org/2019/)
