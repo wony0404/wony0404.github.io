@@ -31,11 +31,30 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 
 ## Journal
 
+1. "Secure tumor classification by shallow neural network using homomorphic encryption"
+- \*Seungwan Hong, Jai Hyun Park, **Wonhee Cho**, Hyeongmin Choe, and Jung Hee Cheon
+- BMC genomics, 2022 [[paper]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08469-w)
+
+1. "Adventures in crypto dark matter: attacks, fixes and analysis for weak pseudorandom functions"
+- Jung Hee Cheon, **Wonhee Cho**, Jeong Han Kim, and Jiseung Kim
+- Designs, Codes and Cryptography, 2022 [[paper]](https://link.springer.com/article/10.1007/s10623-022-01071-x)
 
 
 1. "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation"  
 - \*Miran Kim, \*Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, **Wonhee Cho**, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza, and Xiaoqian Jiang
 - Cell Systems, 2021 [[paper]](https://www.sciencedirect.com/science/article/pii/S240547122100288X)
+
+1. "Extension of simultaneous Diophantine approximation algorithm for partial approximate common divisor variants"
+- **Wonhee Cho**, Jiseung Kim, and Changmin Lee
+- IET Information Security, 2021 [[paper]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2.12032)
+
+1. "(In) security of concrete instantiation of Lin17’s functional encryption scheme from noisy multilinear maps"
+- **Wonhee Cho**, Jiseung Kim, and Changmin Lee
+- Designs, Codes and Cryptography, 2021 [[paper]](https://link.springer.com/article/10.1007/s10623-021-00854-y)
+
+1. "Algorithms for CRT-variant of approximate greatest common divisor problem"
+- Jung Hee Cheon, **Wonhee Cho**, Minki Hhan, Jiseung Kim, and Changmin Lee
+- Journal of Mathematical Cryptology, 2020 [[paper]](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html)
 
 ## Manuscript
 
