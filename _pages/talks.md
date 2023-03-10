@@ -14,6 +14,6 @@ author_profile: true
 - [2020 Korean Mathematical Society Spring Meeting](https://www.kms.or.kr/meetings/spring2020/), online, July 2020
 
 1. Secure Genotype Imputation using HEaaN
-- [iDASH Privacy & Security Workshop (iDASH 2019)](http://www.humangenomeprivacy.org/2019/), Bloomington, USA, Oct 2019 [slide](https://wony0404.github.io/files/iDASH 2019_presentation.pptx), [poster](https://wony0404.github.io/files/_Poster__iDASH_2019_SNU.pdf)
+- [iDASH Privacy & Security Workshop (iDASH 2019)](http://www.humangenomeprivacy.org/2019/), Bloomington, USA, Oct 2019 [slide](https://wony0404.github.io/files/iDASH_2019_presentation.pptx), [poster](https://wony0404.github.io/files/_Poster__iDASH_2019_SNU.pdf)
 
 
