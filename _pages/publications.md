@@ -65,7 +65,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 1. A Distinguishing Attack and a Correlation Attack on a Reduced Variant of SNOW 3G
 - Jung Hee Cheon, **Wonhee Cho**, and Minsik Kang
 
-1. Improved Universal Thresholdizer from Threshold Fully Homomorphic Encryption
+1. Improved Universal Thresholdizer from Iterative Shamir Secret Sharing
 - Jung Hee Cheon, **Wonhee Cho**, and Jiseung Kim
 
 1. Note on IND-CPA+ Security of CKKS 
