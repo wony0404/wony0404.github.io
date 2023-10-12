@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. Improved Universal Thresholdizer from Iterative Shamir Secret Sharing
+- [2023 KMS Spring Meeting](https://www.kms.or.kr/conference/2023_spring/index.html), Daejeon, Korea, Apr 2023
+
 1. META-BTS: Bootstrapping Precision Beyond the Limit
 - [ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)](https://www.sigsac.org/ccs/CCS2022/), Los Angeles, USA, Nov 2022 [[slide]](https://wony0404.github.io/files/META-BTS_Wonhee_Cho_CCS.pptx)
 - [2022 Global Korean Mathematical Society International Conference](https://www.kms.or.kr/conference/2022_fall/index.html), Seoul, Korea, Oct 2022
