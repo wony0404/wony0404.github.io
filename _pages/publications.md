@@ -9,6 +9,10 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 
 ## Conference
 
+1. "Homomorphic Multiple Precision Multiplication for CKKS and Reduced Modulus Consumption"
+- Jung Hee Cheon, **Wonhee Cho**, Jaehyung Kim, and Damien Stehlé
+- ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)
+- 
 1. "Meta-bts: Bootstrapping precision beyond the limit"
 - Youngjin Bae, Jung Hee Cheon, **Wonhee Cho**, Jaehyung Kim, and Taekyung Kim
 - ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[paper]](https://dl.acm.org/doi/abs/10.1145/3548606.3560696)
@@ -57,6 +61,9 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 - Journal of Mathematical Cryptology, 2020 [[paper]](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html)
 
 ## Manuscript
+
+1. A Distinguishing Attack and a Correlation Attack on a Reduced Variant of SNOW 3G
+- Jung Hee Cheon, **Wonhee Cho**, and Minsik Kang
 
 1. Improved Universal Thresholdizer from Threshold Fully Homomorphic Encryption
 - Jung Hee Cheon, **Wonhee Cho**, and Jiseung Kim
