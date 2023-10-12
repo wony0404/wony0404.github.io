@@ -14,6 +14,7 @@ Currently my research topics are on statistical analysis for cryptographic primi
 
 ## News and Upcoming Events
 
+- [Nov, 2023] The paper [CCK+23] with the title "Homomorphic Multiple Precision Multiplication for CKKS and Reduced Modulus Consumption" will be presented in ACM CCS 2023.
 
 - [Dec, 2022] The paper [HPC+22] with the title "Secure Tumor Classification by Shallow Neural Network Using Homomorphic Encryption" is published to BMC Medical Genomics.
 
@@ -24,5 +25,3 @@ Currently my research topics are on statistical analysis for cryptographic primi
 - [May, 2021] I presented the paper [CCKK21] at PKC 2021 under the title "Adventures in crypto dark matter: attacks, fixes and analysis for weak pseudorandom functions".
 
 - [Dec, 2020] My SNU team was chosen as one of the first winners of Track 1 in iDASH 2020 competition. [(link)](http://www.humangenomeprivacy.org/2020/)
-
-- [Oct, 2019] My SNU team was chosen as the second winner of Track 2 in iDASH 2020 competition. [(link)](http://www.humangenomeprivacy.org/2019/)
