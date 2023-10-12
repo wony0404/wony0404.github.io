@@ -12,7 +12,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 1. "Homomorphic Multiple Precision Multiplication for CKKS and Reduced Modulus Consumption"
 - Jung Hee Cheon, **Wonhee Cho**, Jaehyung Kim, and Damien Stehlé
 - ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)
-- 
+  
 1. "Meta-bts: Bootstrapping precision beyond the limit"
 - Youngjin Bae, Jung Hee Cheon, **Wonhee Cho**, Jaehyung Kim, and Taekyung Kim
 - ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[paper]](https://dl.acm.org/doi/abs/10.1145/3548606.3560696)
