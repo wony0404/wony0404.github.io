@@ -11,15 +11,15 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 
 1. "Fast and accurate homomorphic softmax evaluation"
 - **Wonhee Cho**, Guillaume Hanrot, Taeseong Kim, Minje Park, and Damien Stehlé
-- ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)
+- ACM SIGSAC Conference on Computer and Communications Security (CCS 2024) [[paper]](https://dl.acm.org/doi/abs/10.1145/3658644.3670369)
 
 1. "Accelerating Homomorphic Comparison Operations for Thresholding Using an Asymmetric Input Range and Input Scaling"
 - \*Sunwoong Kim, **Wonhee Cho**
-- Great Lakes Symposium on VLSI 2024 (GLSVLSI 2024)
+- Great Lakes Symposium on VLSI 2024 (GLSVLSI 2024) [[paper]](https://dl.acm.org/doi/abs/10.1145/3649476.3658724)
 
 1. "Homomorphic Multiple Precision Multiplication for CKKS and Reduced Modulus Consumption"
 - Jung Hee Cheon, **Wonhee Cho**, Jaehyung Kim, and Damien Stehlé
-- ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)
+- ACM SIGSAC Conference on Computer and Communications Security (CCS 2023) [[paper]](https://dl.acm.org/doi/abs/10.1145/3576915.3623086)
   
 1. "Meta-bts: Bootstrapping precision beyond the limit"
 - Youngjin Bae, Jung Hee Cheon, **Wonhee Cho**, Jaehyung Kim, and Taekyung Kim
