@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate majoring in cryptography at Department of Mathematical Sciences, Seoul National University (SNU), Republic of Korea. My advisor is Prof. [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). 
-I am interested in analyzing the security of various cryptographic primitives and homomorphic encryption.
-Currently my research topics are on statistical analysis for cryptographic primitives and privacy-preserving machine learning.
+I am a security engineer of confidential computing & storage security in SW development team at Samsung Electronics, Korea. My major research topics are fully homomorphic encryption (FHE) and post-quantum cryptography (PQC), and cryptanalysis.
+
+I completed my PhD in 2024 at Seoul National University (SNU), where I was advised by Prof. [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). In 2017, I graduated with Higest Honors from SNU where I majored in Mathematical Sciences and Economics.
 
 ## News and Upcoming Events
 
-- [Nov, 2023] The paper [CCK+23] with the title "Homomorphic Multiple Precision Multiplication for CKKS and Reduced Modulus Consumption" will be presented in ACM CCS 2023.
+- [Dec, 2024] The paper [CCK24] with the title "Improved Universal Thresholdizer from Iterative Shamir Secret Sharing" is accepted in Journal of Cryptology!
+
+- [Nov, 2024] The paper [CHK+24] with the title "Fast and accurate homomorphic softmax evaluation" is presented in ACM CCS 2024.
+
+- [Jun, 2024] The paper [KC24] with the title "Accelerating Homomorphic Comparison Operations for Thresholding Using an Asymmetric Input Range and Input Scaling" is presented in GLSVLSI 2024.
+
+- [Mar, 2024] I started working as a full-time engineer at Samsung Electronics in Korea.
+
+- [Nov, 2023] The paper [CCK+23] with the title "Homomorphic Multiple Precision Multiplication for CKKS and Reduced Modulus Consumption" is presented in ACM CCS 2023.
 
 - [Dec, 2022] The paper [HPC+22] with the title "Secure Tumor Classification by Shallow Neural Network Using Homomorphic Encryption" is published to BMC Medical Genomics.
 
