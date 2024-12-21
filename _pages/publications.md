@@ -9,6 +9,14 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 
 ## Conference
 
+1. "Fast and accurate homomorphic softmax evaluation"
+- **Wonhee Cho**, Guillaume Hanrot, Taeseong Kim, Minje Park, and Damien Stehlé
+- ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)
+
+1. "Accelerating Homomorphic Comparison Operations for Thresholding Using an Asymmetric Input Range and Input Scaling"
+- \*Sunwoong Kim, **Wonhee Cho**
+- Great Lakes Symposium on VLSI 2024 (GLSVLSI 2024)
+
 1. "Homomorphic Multiple Precision Multiplication for CKKS and Reduced Modulus Consumption"
 - Jung Hee Cheon, **Wonhee Cho**, Jaehyung Kim, and Damien Stehlé
 - ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)
@@ -35,6 +43,11 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 
 ## Journal
 
+1. "Improved Universal Thresholdizer from Iterative Shamir Secret Sharing"
+- Jung Hee Cheon, **Wonhee Cho**, and Jiseung Kim
+- Journal of Cryptology, 2025
+- Eprint, [[paper]](https://eprint.iacr.org/2023/545)
+  
 1. "Secure tumor classification by shallow neural network using homomorphic encryption"
 - \*Seungwan Hong, Jai Hyun Park, **Wonhee Cho**, Hyeongmin Choe, and Jung Hee Cheon
 - BMC genomics, 2022 [[paper]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08469-w)
@@ -62,11 +75,11 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 
 ## Manuscript
 
+1. (In) Security of Threshold Fully Homomorphic Encryption based on Shamir Secret Sharing
+- **Wonhee Cho**, Jiseung Kim, and Changmin Lee
+
 1. A Distinguishing Attack and a Correlation Attack on a Reduced Variant of SNOW 3G
 - Jung Hee Cheon, **Wonhee Cho**, and Minsik Kang
-
-1. Improved Universal Thresholdizer from Iterative Shamir Secret Sharing
-- Jung Hee Cheon, **Wonhee Cho**, and Jiseung Kim
 
 1. Note on IND-CPA+ Security of CKKS 
 - Jung Hee Cheon, **Wonhee Cho**, and Duhyeong Kim
